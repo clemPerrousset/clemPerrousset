@@ -1,9 +1,9 @@
 # Hi, I'm Clément 👋
 
-**Software engineer, from need to production.**
-8 years of native Android & iOS, now end to end: Rust backends, self-hosted infrastructure and AI coding agents (spec-driven, with Claude Code and OpenSpec).
+**Founding engineer, from need to production.**
+Used to being the first engineer on a product. 8 years of native Android & iOS, now end to end: Rust backends, self-hosted infrastructure and AI coding agents (spec-driven, with Claude Code and OpenSpec).
 
-Based in Dijon, France. **Open to freelance & full remote.**
+Based in Dijon, France. **Open to founding engineer roles (early-stage startups), freelance missions & full remote.**
 
 ## What I work on
 
